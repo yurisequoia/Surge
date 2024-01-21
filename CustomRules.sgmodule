@@ -1,0 +1,19 @@
+#!name=Custom Rules
+#!desc=自定义的规则
+#!author=YuriSequoia
+
+[Rule]
+DOMAIN-SUFFIX,photo.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,store.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,aegis.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,rmonitor.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,xsj.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,gcqqso.gtimg.cn,REJECT-DROP
+DOMAIN-SUFFIX,snowflake.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,cgi.connect.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,getlocalphone.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,imtt.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,game.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,gamer.qq.com,REJECT-DROP
+DOMAIN-SUFFIX,gamecenter.qq.com,REJECT-DROP
+DOMAIN-KEYWORD,minigame,REJECT-DROP
